@@ -29,6 +29,6 @@ const cc = "+1"
 console.log([a, b, c, cc])
 ```
 
-![Untitled](https://ibb.co/m8FZjv4)
+![Untitled](https://i.ibb.co/k16b73X/var-Let-Const.png)
 
 Quando a variavel não tiver motivos para mudar de valor usamos `const`  e para um valor mutável como horário atual  será `let`
