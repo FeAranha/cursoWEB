@@ -29,7 +29,9 @@ const cc = "+1"
 console.log([a, b, c, cc])
 ```
 
-![Untitled](https://i.ibb.co/k16b73X/var-Let-Const.png)
+<!---
+<img src="https://i.ibb.co/k16b73X/var-Let-Const.png" alt="vsCode"/>
+--->
 
 Quando a variavel não tiver motivos para mudar de valor usamos `const`  e para um valor mutável como horário atual  será `let`
 
@@ -53,18 +55,3 @@ let valor = ''
 let numero = 1
 let pqp = false // Produto Químico Perigoso... ¯\_(ツ)_/¯ 😐
 ```
-
-## ternário
-
-No unário é um operador, no binário é dois e há três operando no ternário a **expressão relacional** `?`(operador ternário, caso verdadeiro) ’Aprovado’ `:`(caso falso) ‘Reprovado’ 
-
-```jsx
-const resultado = nota => nota >= 7 ? 'Aprovado' : 'Reprovado'
-
-console.log(resultado(7.2))
-console.log(resultado(6.7))
-```
-
-Aprovado
-
-Reprovado
