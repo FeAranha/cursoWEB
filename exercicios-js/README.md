@@ -12,7 +12,6 @@ const c =3
 console.log([a,b,c])
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/edcf7af1-7dcf-49a8-a46d-ec7ace5a8c14/Untitled.png)
 
 O JS diferente de outras linguagem aceita a reutilização da variável após declarada porem o `const` não.
 
@@ -30,8 +29,6 @@ const cc = "+1"
 console.log([a, b, c, cc])
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5494aa16-f273-42c9-9f21-cc6512c54658/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/43471c26-368e-4b0b-88ee-7f376b3d6049/Untitled.png)
+![Untitled](https://i.ibb.co/k16b73X/var-Let-Const.png)
 
 Quando a variavel não tiver motivos para mudar de valor usamos `const`  e para um valor mutável como horário atual  será `let`
