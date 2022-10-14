@@ -1,2 +1,2 @@
-a = getTime()
+const a = getTime()
 console.log(a)
