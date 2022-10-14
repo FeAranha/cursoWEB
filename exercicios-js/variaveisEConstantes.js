@@ -1,7 +1,13 @@
 var a = 3
+let b = 4
 
-let b = 3
+var a = 30
+b = 40
 
-const c =3
+const c = +1
 
-console.log([a,b,c])
+const cc = "+1"
+
+cc = 2
+
+console.log([a, b, c, cc])
