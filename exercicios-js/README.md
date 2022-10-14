@@ -53,3 +53,18 @@ let valor = ''
 let numero = 1
 let pqp = false // Produto Químico Perigoso... ¯\_(ツ)_/¯ 😐
 ```
+
+## ternário
+
+No unário é um operador, no binário é dois e há três operando no ternário a **expressão relacional** `?`(operador ternário, caso verdadeiro) ’Aprovado’ `:`(caso falso) ‘Reprovado’ 
+
+```jsx
+const resultado = nota => nota >= 7 ? 'Aprovado' : 'Reprovado'
+
+console.log(resultado(7.1))
+console.log(resultado(6.7))
+```
+
+Aprovado
+
+Reprovado
